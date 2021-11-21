@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "title": "Amazon Clone",
+        "img":"/images/amazon.gif",
+        "description": "Amazon clone, you can view items, add them to cart and checkout with stripe(if your logged in), also you can see the order history. for test payments use this card: card#: 4242 4242 4242 4242 EXP:4/22 CVC: 424. ",
+        "skills": [
+        {
+            "title": "NextJs",
+            "color": "text-black"
+        } ,
+        {
+            "title": "Firebase",
+            "color": "#FCD34D"
+        },
+        {
+            "title": "Stripe",
+            "color": "purple"
+        },
+        {
+            "title": "Tailwind",
+            "color": "skyBlue"
+        },
+        {
+            "title": "Redux",
+            "color": "#4C1D95"
+        }
+        ],
+        "url": "https://hopeful-lalande-8dad86.netlify.app/",
+        "github": "https://github.com/diegodjty/amazon_clone"
+    },
+    {   
+        "id": "2",
+        "title": "Instagram Clone",
+        "img":"/images/instagram.gif",
+        "description": "Instagram clone, it has some basic functionality, you can post a picture with a caption, like, and comment, but before that, you have to be an authenticated user.",
+        "skills": [
+        {
+            "title": "NextJs",
+            "color": "text-black"
+        } ,
+        {
+            "title": "Firebase",
+            "color": "#FCD34D"
+        },
+        {
+            "title": "Tailwind",
+            "color": "skyBlue"
+        },
+        {
+            "title": "Recoil",
+            "color": "darkBlue"
+        }
+        ],
+        "url": "https://instagram-ruddy.vercel.app/",
+        "github": "https://github.com/diegodjty/instagram"
+    }
+    ,
+    {
+        "id": "3",
+        "title": "AirBnB Clone",
+        "img":"/images/airbnb.gif",
+        "description": "Airbnb clone, beautiful design, it has a calendar date picker and a map using Mapbox, it also has pin points",
+        "skills": [
+        {
+            "title": "NextJs",
+            "color": "black"
+        } ,
+        {
+            "title": "MapBox",
+            "color": "#10B981"
+        },
+        {
+            "title": "ReactJS",
+            "color": "#1E40AF"
+        }
+        ],
+        "url": "https://airbnb-clone-kappa-three.vercel.app/",
+        "github": "https://github.com/diegodjty/airbnb_clone/tree/main"
+    }
+    ,
+    {
+        "id": "",
+        "title": "Herbert's Meat Market",
+        "img":"/images/herberts.gif",
+        "description": "Website that I build for a local meat market, the client is happy with the result. It is a  fully responsive and user-friendly website",
+        "skills": [
+        {
+            "title": "ReactJS",
+            "color": "#1E40AF"
+        } ,
+        {
+            "title": "StyledComponents",
+            "color": "#EC4899"
+        }       
+        ]
+        ,
+        "url": "https://airbnb-clone-kappa-three.vercel.app/",
+        "github": "https://github.com/diegodjty/herberts-meat-market"
+    }
+]
