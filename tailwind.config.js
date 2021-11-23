@@ -10,7 +10,8 @@ module.exports = {
           dark: '#003C56',
           medium: '#0085A3',
           medium2: '#005A75',
-          light: '#2CB0F0'
+          light: '#2CB0F0',
+          dark2: '#001E2C'
         },
         yellow: '#E9DAAF',
         orange: '#D9A317'

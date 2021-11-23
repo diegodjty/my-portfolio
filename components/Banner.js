@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 function Banner() {
     return (
-        <div className='max-w-[90%] m-auto relative h-screen'>
+        <div id='banner' className='max-w-[90%] m-auto relative h-screen '>
 
             {/* Main text */}
             <motion.div 
@@ -11,11 +11,11 @@ function Banner() {
                 transition={{duration: 1}}
             >
                 <div>
-                    <h2 className='text-white font-black text-4xl'>Hi,</h2>
-                    <h2 className='text-white font-black text-4xl '>I'm <img src='/images/logo.png' className='inline-block h-12 -mt-3' />iego</h2>
-                    <h3 className='text-white font-black text-4xl'>Web Developer</h3>
+                    <h2 className='text-white font-black text-4xl lg:text-6xl'>Hi,</h2>
+                    <h2 className='text-white font-black text-4xl lg:text-6xl '>I'm <img src='/images/logo.png' className='inline-block h-12 -mt-3 lg:h-16'  />iego</h2>
+                    <h3 className='text-white font-black text-4xl lg:text-6xl'>Web Developer</h3>
                 </div>
-                <p className='text-gray-400 font-extralight my-3'>Front End Developer</p>
+                <p className='text-gray-400 font-extralight my-3 lg:text-lg'>Front End Developer</p>
                 <button className='btn mt-2'>
                     <a href='#contactme'>Contact Me!</a>
                 </button>
@@ -27,7 +27,7 @@ function Banner() {
                 animate={{opacity:1, translateY: 0}}
                 transition={{duration: 1}}
             >
-                <h3 className='text-xl text-white  mt-14 text-center font-thin '>Take a trip to  my portfolio</h3>
+                <h3 className='text-xl text-white  mt-14 text-center font-thin lg:mt-44 '>Take a trip to  my portfolio</h3>
 
                 {/* Arrow */}
                 <div className=' flex justify-center mb-20 mt-5 cursor-pointer '>

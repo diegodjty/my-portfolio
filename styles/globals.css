@@ -4,17 +4,21 @@
 @layer components {
 
     .list-item{
-        @apply p-4 text-lg border border-blue-light  w-full text-white
+        @apply p-4 text-lg border-b border-blue-light  w-full text-white
         font-light  
     }
 
     .btn{
         @apply border-2 border-blue-light py-1 text-center px-5
-      text-blue-light hover:bg-blue-light hover:text-white hover:border-blue-medium2 hover:shadow-md transition-all delay-100 ease-out
+      text-blue-light hover:bg-blue-light hover:text-white hover:border-blue-medium2 hover:shadow-md transition-all delay-100 ease-out lg:px-8
     }
 
     .input{
         @apply bg-blue-medium py-3 w-full my-1 placeholder-gray-700 pl-3
+    }
+
+    .img{
+        @apply my-2 hover:scale-150 transition ease-out duration-500
     }
 }
 
@@ -22,3 +26,4 @@ html{
     scroll-behavior: smooth;
     background: #003C56;
 }
+

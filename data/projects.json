@@ -71,8 +71,8 @@
             "color": "#10B981"
         },
         {
-            "title": "ReactJS",
-            "color": "#1E40AF"
+            "title": "Tailwind",
+            "color": "skyBlue"
         }
         ],
         "url": "https://airbnb-clone-kappa-three.vercel.app/",
@@ -95,7 +95,7 @@
         }       
         ]
         ,
-        "url": "https://airbnb-clone-kappa-three.vercel.app/",
+        "url": "https://www.herbertsmeatmarket.com/#/",
         "github": "https://github.com/diegodjty/herberts-meat-market"
     }
 ]
