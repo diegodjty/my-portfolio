@@ -38,7 +38,7 @@ function Aboutme() {
                     <h2 className='text-2xl text-yellow font-bold lg:text-6xl lg:mb-10'>About Me</h2>
                     <p  className='text-white mt-2 lg:text-lg '>Hello! My name is Diego Taveras I’m a Front End Developer located in Long Island, New York.
                     I love web development and everything that has to do with technology. I am passionate about learning new things and acquiring new experiences and skills. I am a lover of nature, sports, and working out. To learn more about my education and, experiences take a look at my resume.</p>
-                    <p className='font-bold text-sm text-blue-light ml-10 mt-3'><a >Resume</a></p>
+                    <p className='font-bold text-sm text-blue-light ml-10 mt-3'><a href='/resume.pdf' download>Resume</a></p>
                 </motion.div>
                 <motion.img animate={animation2} initial={{x:'100vw'}} className='m-auto mt-10 lg:mt-20' src="/images/memoji.png" height={125} width={125} alt="" />
             </div>
