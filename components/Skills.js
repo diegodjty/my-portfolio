@@ -48,6 +48,14 @@ function Skills() {
                     <img className='img' src="/images/git.svg" alt="" />
                     <img className='img' src="/images/github2.svg" alt="" />
                 </div>
+                <div className=' grid grid-cols-2 p-5 justify-items-center lg:grid-cols-3 lg:p-0 2xl:grid-cols-6'>
+                    <img className='img' src="/images/aws.svg" alt="" />
+                    <img className='img' src="/images/heroku.svg" alt="" />
+                    <img className='img' src="/images/mongodb.svg" alt="" />
+                    <img className='img' src="/images/cypress.svg" alt="" />
+                    <img className='img' src="/images/python.svg" alt="" />
+                    <img className='img' src="/images/nodejs.svg" alt="" />
+                </div>
             </motion.div>
         </div> 
     )

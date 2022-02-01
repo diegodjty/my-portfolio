@@ -97,5 +97,34 @@
         ,
         "url": "https://www.herbertsmeatmarket.com/#/",
         "github": "https://github.com/diegodjty/herberts-meat-market"
+    },
+    {
+        "id": "",
+        "title": "DevJobs",
+        "img":"/images/devjobs.gif",
+        "description": "DevJobs is a platform where developers can look for new opportunities in the field and recruiters and employers can post their available positions.",
+        "skills": [
+            {
+                "title": "NodeJS",
+                "color": "#59A946"
+            } ,
+            {
+                "title": "Express",
+                "color": "#010101"
+            },
+            {
+                "title": "MongoDB",
+                "color": "#00ED64"
+            }
+            ,
+            {
+                "title": "Handlebars",
+                "color": "#F0772B"
+            }
+
+        ]
+        ,
+        "url": "https://dev-jobs-nodejs.herokuapp.com/",
+        "github": "https://github.com/diegodjty/DevJobs"
     }
 ]
