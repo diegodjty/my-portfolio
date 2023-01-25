@@ -1,0 +1,76 @@
+[
+  {
+    "id": "2",
+    "title": "Instagram Clone",
+    "img": "/images/instagram.gif",
+    "description": "Instagram clone, it has some basic functionality, you can post a picture with a caption, like, and comment, but before that, you have to be an authenticated user.",
+    "skills": [
+      {
+        "title": "NextJs",
+        "color": "text-black"
+      },
+      {
+        "title": "Firebase",
+        "color": "#FCD34D"
+      },
+      {
+        "title": "TailwindCSS",
+        "color": "skyBlue"
+      },
+      {
+        "title": "Recoil",
+        "color": "darkBlue"
+      }
+    ],
+    "url": "https://instagram-ruddy.vercel.app/",
+    "github": "https://github.com/diegodjty/instagram"
+  },
+  {
+    "id": "",
+    "title": "DevJobs",
+    "img": "/images/devjobs.gif",
+    "description": "DevJobs is a platform where developers can look for new opportunities in the field and recruiters and employers can post their available positions.",
+    "skills": [
+      {
+        "title": "NodeJS",
+        "color": "#59A946"
+      },
+      {
+        "title": "Express",
+        "color": "#010101"
+      },
+      {
+        "title": "MongoDB",
+        "color": "#00ED64"
+      },
+      {
+        "title": "Handlebars",
+        "color": "#F0772B"
+      }
+    ],
+    "url": "https://dev-jobs-nodejs.herokuapp.com/",
+    "github": "https://github.com/diegodjty/DevJobs"
+  },
+  {
+    "id": "3",
+    "title": "AirBnB Clone",
+    "img": "/images/airbnb.gif",
+    "description": "Airbnb clone, beautiful design, it has a calendar date picker and a map using Mapbox, it also has pin points",
+    "skills": [
+      {
+        "title": "NextJs",
+        "color": "black"
+      },
+      {
+        "title": "MapBox",
+        "color": "#10B981"
+      },
+      {
+        "title": "TailwindCSS",
+        "color": "skyBlue"
+      }
+    ],
+    "url": "https://airbnb-clone-kappa-three.vercel.app/",
+    "github": "https://github.com/diegodjty/airbnb_clone/tree/main"
+  }
+]
