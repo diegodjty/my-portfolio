@@ -3,7 +3,7 @@
     "id": "1",
     "title": "UpTask",
     "img": "/images/uptask.gif",
-    "description": "UpTask is a platform where users can manage projects, add tasks, collaborators, and more. Users can also mark a task as completed, incompleted and it all works in real-time thanks to socket.io",
+    "description": "UpTask is a platform where users can manage projects, add tasks, collaborators, and more. Users can also mark a task as completed, incompleted and it all works in real-time thanks to socket.io \n TEST ACCOUNT: \n Email:test@gmail.com \n Password: 123456",
     "skills": [
       {
         "title": "ReactJS",
