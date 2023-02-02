@@ -3,7 +3,6 @@ import Project from './Project';
 import { motion, useAnimation } from 'framer-motion';
 
 function Projects({ animation2, projects }) {
-  console.log(projects);
   return (
     <motion.div
       animate={animation2}
