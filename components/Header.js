@@ -33,16 +33,16 @@ function Header() {
         {/* Footer */}
         <div className="flex justify-center space-x-10 mt-auto mb-2 md:space-x-5">
           <a href="/resume.pdf" download>
-            <img className="h-6" src="/images/resume.svg" alt="" />
+            <img className="h-6" src="/images/resume.svg" alt="resume" />
           </a>
           <a href="https://github.com/diegodjty" target="_blank">
-            <img className="h-6" src="/images/github.svg" alt="" />
+            <img className="h-6" src="/images/github.svg" alt="github" />
           </a>
           <a
             href="https://www.linkedin.com/in/diego-taveras-325491226/"
             target="_blank"
           >
-            <img className="h-6" src="/images/linkedin.svg" alt="" />
+            <img className="h-6" src="/images/linkedin.svg" alt="linkedin" />
           </a>
         </div>
       </div>
